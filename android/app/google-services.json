@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375425345852",
+    "project_id": "real-time-chat-f193a",
+    "storage_bucket": "real-time-chat-f193a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375425345852:android:6151dacf28e0d086a5d639",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375425345852-rlfbdb1fo3q5j67eelmsbkhravt5ccco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_chat",
+            "certificate_hash": "d6d41fccbdf90b20f6226c0b78eead3ed6bdc2ed"
+          }
+        },
+        {
+          "client_id": "375425345852-frj1mu3clnntm6fpmilkju9gphi3d688.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6M7WZj5992geE2pqaW4ia6H5EwJVArJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375425345852-frj1mu3clnntm6fpmilkju9gphi3d688.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

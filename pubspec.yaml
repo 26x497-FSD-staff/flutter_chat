@@ -1,0 +1,36 @@
+name: flutter_chat
+description: A realtime one-to-one chat app using Flutter, Firebase, Riverpod
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase core
+  firebase_core: ^3.0.0
+
+  # Auth
+  firebase_auth: ^5.0.0
+  google_sign_in: ^6.2.1
+
+  # Database
+  cloud_firestore: ^5.0.0
+
+  # Storage (เผื่อใช้ในขั้นต่อไป การส่งไฟล์แนบ)
+  firebase_storage: ^12.4.10
+
+  # State management
+  flutter_riverpod: ^2.5.0
+
+  # Routing
+  go_router: ^14.0.0
+
+  # UI
+  flutter_hooks: ^0.20.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
